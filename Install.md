@@ -1,6 +1,6 @@
 ## Install
 
-This branch supports ROS Rolling. See above for other ROS versions.
+This branch supports ROS Humble. See above for other ROS versions.
 
 
 
