@@ -80,7 +80,7 @@ The end_effector_controller node controls the end effector of the robotic arm, s
 
 ## Install
 
-This branch supports ROS Humble. See this [INSTALL.md](install.md) for more details of install.
+This branch supports ROS Humble. See this [INSTALL.md](INSTALL.md) for more details of install.
 
 
 # Folder Structure
