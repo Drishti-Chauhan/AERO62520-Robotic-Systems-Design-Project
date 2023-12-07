@@ -1,13 +1,10 @@
-## Install
+## INSTALL
 
 This branch supports ROS Humble. See above for other ROS versions.
 
 
 
-### Binaries
-
-Rolling binaries are available for Fortress.
-They are hosted at https://packages.ros.org.
+### Basic package
 
 1. Add https://packages.ros.org
 

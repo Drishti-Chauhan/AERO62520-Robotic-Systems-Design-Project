@@ -89,9 +89,9 @@ Refer to the following table for information about important directories and fil
 
 ```
 leo_robotic
-├── img                          This file in clude some design imgs about this project.
+├── img                          This file include some design imgs about this project.
 ├── ros_leo_description          This file include some basic code for robot model.
-├── ros_leo_sensor               This file in clude the code and example pics for analysising the sensor date.
+├── ros_leo_sensor               This file include the code and example pics for analysising the sensor date.
 ├── ros_leo_demos                This file include how to navigate the robotic in world.
 ├── test                         Test for code.
 ├── INSTALL.md                   This file include the package needed to be downloaded for this project.
