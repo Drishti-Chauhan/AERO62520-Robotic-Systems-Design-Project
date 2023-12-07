@@ -100,9 +100,7 @@ leo_robotic
 
 # Contributing
 
-Please see
-[CONTRIBUTING.md](https://github.com/gazebosim/gz-sim/blob/main/CONTRIBUTING.md).
-
+Team 2: [Marcell](mailto:marcell.westsik@postgrad.manchester.ac.uk),[Maggie](ruyi.zhang-3@student.manchester.ac.uk),[Yining](mailto:yining.wang-17@postgrad.manchester.ac.uk),and[Drishti](mailto:drishtichauhanpvt@gmail.com).
 
 
 # License
