@@ -80,8 +80,7 @@ The end_effector_controller node controls the end effector of the robotic arm, s
 
 ## Install
 
-This branch supports ROS Rolling. See above for other ROS versions.
-
+This branch supports ROS Humble. See this [install.md](install.md) for more details of install.
 
 
 ### Binaries
@@ -97,7 +96,7 @@ They are hosted at https://packages.ros.org.
 
 1. Install `ros_gz`
 
-        sudo apt install ros-rolling-ros-gz
+        sudo apt install ros-humble-ros-gz
 
 ### From source
 
