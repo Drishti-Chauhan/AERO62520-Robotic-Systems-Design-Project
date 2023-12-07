@@ -89,13 +89,13 @@ Refer to the following table for information about important directories and fil
 
 ```
 leo_robotic
-├── img                          This file include some design imgs about this project.
-├── ros_leo_description          This file include some basic code for robot model.
-├── ros_leo_sensor               This file include the code and example pics for analysising the sensor date.
-├── ros_leo_demos                This file include how to navigate the robotic in world.
-├── test                         Test for code.
+├── img                          This folder include some design imgs about this project.
+├── ros_leo_description          This folder include some basic code for robot model.
+├── ros_leo_sensor               This folder include the code and example pics for analysising the sensor date.
+├── ros_leo_demos                This folder include how to navigate the robotic in world.
+├── test                         This is the test file for code.
 ├── INSTALL.md                   This file include the package needed to be downloaded for this project.
-└── README.md                    This readme file.
+└── README.md                    This is the readme file.
 ```
 
 # Contributing
@@ -105,7 +105,7 @@ Team 2: [Marcell](mailto:marcell.westsik@postgrad.manchester.ac.uk),[Maggie](ruy
 
 # License
 
-This library is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). See also the [LICENSE](https://github.com/gazebosim/gz-sim/blob/main/LICENSE) file.
+This library is licensed under [MIT LICENSE](https://opensource.org/license/mit/). 
 
 # Contact
 For maintenance inquiries, please contact [Marcell](mailto:marcell.westsik@postgrad.manchester.ac.uk),[Maggie](ruyi.zhang-3@student.manchester.ac.uk),[Yining](mailto:yining.wang-17@postgrad.manchester.ac.uk),and[Drishti](mailto:drishtichauhanpvt@gmail.com).
