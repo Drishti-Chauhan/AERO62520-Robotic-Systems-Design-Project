@@ -1,6 +1,6 @@
 # AERO62520: LEO ROBOTICS SYSTEMS DESIGN PROJECT
 
-**Maintainer:** team 2
+**Maintainer:** Team 2: [Marcell](mailto:marcell.westsik@postgrad.manchester.ac.uk),[Maggie](ruyi.zhang-3@student.manchester.ac.uk),[Yining](mailto:yining.wang-17@postgrad.manchester.ac.uk),and[Drishti](mailto:drishtichauhanpvt@gmail.com)
 
 
 
@@ -78,7 +78,7 @@ The end_effector_controller node controls the end effector of the robotic arm, s
 
 ![RQT](img/rqt.jpeg "RQT_graph") 
 
-## Install
+# Install
 
 This branch supports ROS Humble. See this [INSTALL.md](INSTALL.md) for more details of install.
 
@@ -110,4 +110,4 @@ Please see
 This library is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). See also the [LICENSE](https://github.com/gazebosim/gz-sim/blob/main/LICENSE) file.
 
 # Contact
-For inquiries and support, contact [maintainer's email]
+For maintenance inquiries, please contact [Marcell](mailto:marcell.westsik@postgrad.manchester.ac.uk),[Maggie](ruyi.zhang-3@student.manchester.ac.uk),[Yining](mailto:yining.wang-17@postgrad.manchester.ac.uk),and[Drishti](mailto:drishtichauhanpvt@gmail.com).
